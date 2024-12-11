@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation (RAG) Application using Mistral3
+# Retrieval Augmented Generation (RAG) Application using Mistral AI
 
 This repository demonstrates the deployment of a Large Language Model (LLM) with a Retrieval Augmented Generation (RAG) approach. It explains how RAG enhances traditional LLM capabilities by integrating external data for more accurate and contextually relevant responses.
 
@@ -16,22 +16,22 @@ RAG combines the strengths of retrieval systems and generative models to provide
 ## Prerequisites
 To use this repository, ensure the following are installed:
 - Python (>=3.8)
-- Notebook runtime environment (e.g., Jupyter Notebook)
-- HuggingFace Access Token ( Can be acquired [here](https://huggingface.co/settings/tokens)
+- Notebook runtime environment (e.g., Jupyter Notebook, Google Collab...)
+- HuggingFace Access Token (Can be acquired [here](https://huggingface.co/settings/tokens)
 )
 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/barkiayoub/RAG_Application_using_Mistral3.git
-   cd RAG_Application_using_Mistral3
+   git clone https://github.com/barkiayoub/RAG-Enhanced-Text-Generation.git
+   cd RAG-Enhanced-Text-Generation
    ```
-2. Launch Jupyter Notebook:
+2. Launch Your Notebook Runtime Environment ( Jupyter Notebook in this case ):
    ```bash
    jupyter notebook
    ```
 
-3. Open `RAG_Application_using_Mistral3.ipynb` to get started.
+3. Open `RAG_Application_using_MistralAI.ipynb` to get started.
 
 ## Usage
 1. Load the notebook and follow the step-by-step instructions provided.
